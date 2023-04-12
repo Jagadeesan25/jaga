@@ -1,7 +1,6 @@
- hi this is jaga
- how do you do?
- what is your name?
- how old are you?
- do you loved some one?
- if you are sent me name.
- do you know me?
+ hi this is jaga?/n                                                                                                                                                        
+ how do you do?/n                                                                                                                                                                  
+ what is your name?/n                                                                                                                                                                                                                                                                     
+ how old are you?/n                                                                                                                                                                          
+ send to whasapp?
+ 
