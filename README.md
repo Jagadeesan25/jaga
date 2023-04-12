@@ -1,7 +1,8 @@
- hi this is jaga?/n                                                                                                                                                        
- how do you do?/n                                                                                                                                                                  
- what is your name?/n                                                                                                                                                                                                                                                                                                                               
- how old are you?/n                         
- What do you want????/n                                                                                                                                                                                                                                                                                                                                                                                                                                             
+ hi this is jaga?                                                                                                                                                           
+ how do you do?                                                                                                                                                                           
+ what is your name?                                                                                                                                                                                                                                                                                                                                    
+ how old are you?                              
+ What do you want????                    
+ Answer all the questions. AND.                                                                                                                                                                                                                                                                                                                                                                                                                                                    
  send to whasapp?
  
